@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-qrcodegpsdaver-dev-223321-authRole",
+      "UnauthRoleArn": "arn:aws:iam::144845596599:role/amplify-qrcodegpsdaver-dev-223321-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::144845596599:role/amplify-qrcodegpsdaver-dev-223321-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-qrcodegpsdaver-dev-223321-deployment",
+      "UnauthRoleName": "amplify-qrcodegpsdaver-dev-223321-unauthRole",
+      "StackName": "amplify-qrcodegpsdaver-dev-223321",
+      "StackId": "arn:aws:cloudformation:us-east-1:144845596599:stack/amplify-qrcodegpsdaver-dev-223321/11d43470-7b60-11ed-9484-0a0ff4b2b22f",
+      "AmplifyAppId": "d49fkxq946cas"
+    },
+    "categories": {
+      "api": {
+        "qrcodegpsdaver": {}
+      }
+    }
+  }
+}

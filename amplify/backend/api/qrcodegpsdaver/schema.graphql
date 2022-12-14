@@ -1,0 +1,9 @@
+type QRRecord @model
+@auth(rules: [{ allow: public}]) {
+  id: ID!
+  lat: Float!
+  lon: Float!
+  QRValue: String!
+  timestamp: AWSDateTime!
+  purpose: String
+}
